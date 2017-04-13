@@ -6,11 +6,10 @@ using namespace std;
 
 /****************************************************
  * name: Mayara Brandao Dusheyko
- * ID: 915 730 756
- * email: mbrandao@sfsu.edu
  * Compile: xcode
  * Description: This program implements a polynomial.
- *      Users can enter a polynomial and get its degree, coefficient of any term, multiply by an   integer, negate, change coefficient of any term, print and add two 	polynomials.
+ *      Users can enter a polynomial and get its degree, coefficient of any term, multiply by an integer, 
+ *		negate, change coefficient of any term, print and add two 	polynomials.
  ******************************************************/
 
 int main(){
